@@ -42,6 +42,7 @@ export default defineConfig((/* ctx */) => {
       },
 
       vueRouterMode: 'hash', // available values: 'hash', 'history'
+      publicPath: '/6704101357-phatcharapol-boonrat/',
       // vueRouterBase,
       // vueDevtools,
       // vueOptionsAPI: false,
